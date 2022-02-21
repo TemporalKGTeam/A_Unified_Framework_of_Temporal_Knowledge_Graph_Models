@@ -7,10 +7,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
@@ -21,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About This Project
 
 This repository contains code for the first unified open-source framework for temporal KG completion models  proposed in [A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework](https://aclanthology.org/2021.emnlp-main.639.pdf). This framework provides full composability, where temporal embeddings, score functions, loss functions, regularizers, and the explicit modeling of reciprocal relations can be combined arbitrarily. You can be free from the nuisance, e.g. data processing, training configuring, hyperparameter tuning, and metrics evaluating.
 
