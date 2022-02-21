@@ -1,0 +1,5 @@
+pyyaml
+arrow
+--find-links https://download.pytorch.org/whl/cu100/torch_stable.html
+torch
+ax-platform==0.1.20
